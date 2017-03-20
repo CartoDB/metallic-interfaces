@@ -2,6 +2,7 @@
   "name": "metallic-interfaces",
   "version": "0.1.0",
   "description": "Common interfaces for metallic services",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CartoDB/metallic-interfaces.git"
