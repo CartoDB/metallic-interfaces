@@ -1,6 +1,6 @@
 {
   "name": "metallic-interfaces",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Common interfaces for metallic services",
   "main": "lib/index.js",
   "repository": {
