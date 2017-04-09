@@ -1,5 +1,10 @@
 # Metallic interfaces ChangeLog
 
+## v0.1.3 (2017-04-09)
+
+ - Update dependencies
+
+
 ## v0.1.2 (2017-04-06)
 
  - Allow minor upgrades
