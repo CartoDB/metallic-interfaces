@@ -1,6 +1,6 @@
 # Metallic interfaces ChangeLog
 
-## v0.4.0 (2018-mm-dd)
+## v0.4.0 (2018-02-23)
 
  - Add TravisCI support
  - Fix issues with test, build and publish commands
